@@ -8,6 +8,8 @@ An [Agent Skill](https://skills.sh) that audits and rewrites AI-slop prose. It f
 npx skills add howells/not-just-a-skill
 ```
 
+Then invoke with `/deslop`.
+
 Works with Claude Code, Cursor, Copilot, Windsurf, and any agent that supports the [Agent Skills spec](https://agentskills.io/specification).
 
 ## What it does

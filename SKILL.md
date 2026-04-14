@@ -1,5 +1,5 @@
 ---
-name: not-just-a-skill
+name: deslop
 description: >-
   Audit and rewrite prose that carries AI-writing tells — inflated significance,
   negative parallelisms like "not just X, but Y", vague attribution, and assistant
