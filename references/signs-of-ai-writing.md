@@ -115,7 +115,11 @@ Any single word can be innocent. The issue is density and cadence.
 
 ### Avoidance of plain copulatives
 
-Watch for a tendency to dodge simple `is` and `are` sentences in favor of inflated structures.
+Watch for a tendency to dodge simple `is` and `are` sentences in favor of inflated structures like "serves as", "stands as", "represents", "marks", "boasts", "features", "maintains", or "offers".
+
+Example: "The bridge serves as a vital connection" instead of "The bridge connects two neighbourhoods."
+
+Edit move: rewrite with `is`, `are`, `was`, or a direct verb.
 
 ### Negative parallelisms
 
@@ -167,7 +171,11 @@ Frequent em dashes used as an all-purpose dramatic hinge.
 
 ### Strange tables
 
-Tables appear where prose or lists would be more natural.
+Tables appear where prose or lists would be more natural. Generated content may force a two-column comparison or a feature matrix when a single sentence would do.
+
+Example: a table comparing "Traditional Approach" vs "Modern Approach" with vague entries like "limited scope" and "broader impact."
+
+Edit move: ask whether the data genuinely has rows and columns. If not, rewrite as prose or a simple list.
 
 ### Curly quotes and apostrophes
 
@@ -271,7 +279,9 @@ Books are cited without page numbers, URLs, or usable locating detail.
 
 ### Reference-style misuse
 
-Footnotes are present but used in unconventional or mechanically repeated ways.
+Footnotes are present but used in unconventional or mechanically repeated ways. Common patterns: every sentence gets its own footnote, multiple footnotes point to the same source, or footnotes appear in headings or bullet items where the host style would never place them.
+
+Edit move: consolidate redundant footnotes and move citations to where the host style expects them.
 
 ### Tracking parameters
 
