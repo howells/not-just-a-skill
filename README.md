@@ -1,4 +1,4 @@
-# Not Just a Skill, But a Testament to the Enduring Legacy of Prose That Doesn't Sound Like It Was Written by a Chatbot
+# This Is Not Just a Skill, It's a Testament to the Enduring Commitment to Fostering Vibrant Prose in an Evolving Landscape
 
 An [Agent Skill](https://skills.sh) that audits and rewrites AI-slop prose. It finds the tells, explains why they matter, and rewrites toward specificity — so your copy stops reading like it was fostered by a vibrant tapestry of language models.
 
